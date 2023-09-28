@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @q83779867
+- 👋 Hi, I’m 迪迦
 - 👀 I’m interested in 摩托车
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on 
+- 💞️我来自平成系
 - 📫 How to reach me 83779867@qq.com
 
 <!---
